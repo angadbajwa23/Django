@@ -19,5 +19,5 @@ from django.urls import path,include
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('',include("blog.urls")),
-    path('https://angadb23.pythonanywhere.com/',include("blog.urls")),
+   
 ]
