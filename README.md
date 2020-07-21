@@ -1,3 +1,2 @@
 # Django
-Check out this quick yet effective website built with Djano
-http://angadb82.pythonanywhere.com
+Check out this quick yet effective website built with Djano for NBA fans.
